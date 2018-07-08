@@ -36,7 +36,7 @@ http://retracker.mgts.by:80/announce
 
 udp://open.stealth.si:80/announce
 
-https://1.track.ga:443/announce
+https://1.track.ga:443/announce 
 
 http://tracker.city9x.com:2710/announce
 
